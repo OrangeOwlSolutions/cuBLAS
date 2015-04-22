@@ -8,3 +8,8 @@ https://github.com/OrangeOwlSolutions/CUDA_Utilities
 
 and omitted here.
 
+The ```TimingGPU.cu``` and ```TimingGPU.cuh``` are maintained at
+
+https://github.com/OrangeOwlSolutions/Timing
+
+and are omitted as well.
